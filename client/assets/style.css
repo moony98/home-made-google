@@ -56,7 +56,6 @@ main {
 
 }
 
-
 /* GOOGLE LOGO END */
 
 
@@ -72,7 +71,7 @@ main {
     border: 1px rgb(223,225,229) solid;
     padding: 5px 5px 5px 25px;
     margin-top: 4vh;
-    margin-bottom: 20%;
+    margin-bottom: 0%;
     height: 40px;    
 }
 
@@ -84,6 +83,21 @@ main {
 
 
 /* SEARCH BAR END */
+
+/* SEARCH BUTTONS */
+
+#buttons {
+    justify-content: center;
+    align-items:center;
+    margin-left: 0%;
+    margin-top: 2.5%;
+    border-radius: 50px;
+    border: none;
+    color: #f8f9fa;
+
+}
+
+/* SEARCH BUTTONS */
 
 /* FOOTER START */
 
