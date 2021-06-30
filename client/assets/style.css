@@ -1,0 +1,119 @@
+/* HEADER START */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+  
+li {
+    float: left;
+    margin-left: 5px;
+}
+  
+nav a {
+    display: block;
+    color: #262626;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+.rightnavbar {
+float: right;
+}
+
+#moreappslogo {
+    height: 25px;
+    margin-top: 2px;
+}
+
+#accountlogo {
+    height: 35px;
+    padding-right: 5px;
+}
+
+/* HEADER END */
+
+
+/* GOOGLE LOGO START */
+
+#googlelogo {
+    height: 92px;
+}
+
+main {
+    justify-content: center;
+    align-items: flex-end;
+    margin-left: 20%;
+    min-height: 28vh;
+
+}
+
+
+/* GOOGLE LOGO END */
+
+
+/* SEARCH BAR START */
+
+.searchbar {
+    text-align: center;
+}
+
+.round {
+    width: 45%;
+    border-radius: 20px;
+    border: 1px rgb(223,225,229) solid;
+    padding: 5px 5px 5px 25px;
+    margin-top: 4vh;
+    margin-bottom: 20%;
+    height: 40px;    
+}
+
+.round:focus {
+    background: white;
+    outline: none;
+    box-shadow: 2px 2px 2px rgb(217,217,218, 0.2);
+  }
+
+
+/* SEARCH BAR END */
+
+/* FOOTER START */
+
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #f2f2f2;
+      text-align: center;
+    }
+
+  
+.footer a {
+    font-size: 14px;
+    display: block;
+    color: #70757a;
+    padding: 10px 10px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#carbonneutral {
+    height: 15px;
+    margin-left: 200px;
+}
+
+#rightfooter {
+    float: right;
+    margin-right: 10px;
+}
+
+/* FOOTER */
